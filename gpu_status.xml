@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Host Name="harami04.hydra">
+  <CUDA>
+    <Driver version>352.79</Driver version>
+    <NVML version>7.352.79</NVML version>
+    <GPU#0>
+      <Board Name>Tesla K80</Board Name>
+      <PCIe>
+        <busId>0000:06:00.0</busId>
+      </PCIe>
+      <Brand>TESLA</Brand>
+      <Utilization>
+        <GPU>0</GPU>
+        <Memory>0</Memory>
+      </Utilization>
+      <powerUsage>61.447000</powerUsage>
+      <Memory>
+        <memUsed>55</memUsed>
+        <memTotal>11519</memTotal>
+      </Memory>
+    </GPU#0>
+    <GPU#1>
+      <Board Name>Tesla K80</Board Name>
+      <PCIe>
+        <busId>0000:07:00.0</busId>
+      </PCIe>
+      <Brand>TESLA</Brand>
+      <Utilization>
+        <GPU>0</GPU>
+        <Memory>0</Memory>
+      </Utilization>
+      <powerUsage>74.458000</powerUsage>
+      <Memory>
+        <memUsed>55</memUsed>
+        <memTotal>11519</memTotal>
+      </Memory>
+    </GPU#1>
+    <GPU#2>
+      <Board Name>Tesla K80</Board Name>
+      <PCIe>
+        <busId>0000:86:00.0</busId>
+      </PCIe>
+      <Brand>TESLA</Brand>
+      <Utilization>
+        <GPU>0</GPU>
+        <Memory>0</Memory>
+      </Utilization>
+      <powerUsage>60.479000</powerUsage>
+      <Memory>
+        <memUsed>55</memUsed>
+        <memTotal>11519</memTotal>
+      </Memory>
+    </GPU#2>
+    <GPU#3>
+      <Board Name>Tesla K80</Board Name>
+      <PCIe>
+        <busId>0000:87:00.0</busId>
+      </PCIe>
+      <Brand>TESLA</Brand>
+      <Utilization>
+        <GPU>0</GPU>
+        <Memory>0</Memory>
+      </Utilization>
+      <powerUsage>74.615000</powerUsage>
+      <Memory>
+        <memUsed>55</memUsed>
+        <memTotal>11519</memTotal>
+      </Memory>
+    </GPU#3>
+    <GPU#4>
+      <Board Name>Tesla K80</Board Name>
+      <PCIe>
+        <busId>0000:8E:00.0</busId>
+      </PCIe>
+      <Brand>TESLA</Brand>
+      <Utilization>
+        <GPU>0</GPU>
+        <Memory>0</Memory>
+      </Utilization>
+      <powerUsage>59.677000</powerUsage>
+      <Memory>
+        <memUsed>55</memUsed>
+        <memTotal>11519</memTotal>
+      </Memory>
+    </GPU#4>
+    <GPU#5>
+      <Board Name>Tesla K80</Board Name>
+      <PCIe>
+        <busId>0000:8F:00.0</busId>
+      </PCIe>
+      <Brand>TESLA</Brand>
+      <Utilization>
+        <GPU>98</GPU>
+        <Memory>4</Memory>
+      </Utilization>
+      <powerUsage>75.364000</powerUsage>
+      <Memory>
+        <memUsed>55</memUsed>
+        <memTotal>11519</memTotal>
+      </Memory>
+    </GPU#5>
+  </CUDA>
+</Host>
